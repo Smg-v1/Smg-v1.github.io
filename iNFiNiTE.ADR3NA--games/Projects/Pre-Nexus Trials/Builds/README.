@@ -29,17 +29,17 @@ It’s a **sandbox for experimentation** and a **foundation for something bigger
 
 ## 🎮 CONTROLS (DEFAULT)
 
-| Action        | Key            |
-|---------------|----------------|
-| Move Forward  | `W`            |
-| Move Backward | `S`            |
-| Move Left     | `A`            |
-| Move Right    | `D`            |
-| Jump          | `Space`        |
-| Sprint        | `Hold Left Shift` |
-| Aim           | `Right Click`  |
-| Shoot         | `Left Click`   |
-| Inventory     | `Tab` |
+| Action        | Key              |
+|---------------|------------------|
+| Move Forward  | `W`              |
+| Move Backward | `S`              |
+| Move Left     | `A`              |
+| Move Right    | `D`              |
+| Jump          | `Space`          |
+| Sprint        | `Hold Left Shift`|
+| Aim           | `Right Click`    |
+| Shoot         | `Left Click`     |
+| Inventory     | `Tab`            |
 
 ---
 
