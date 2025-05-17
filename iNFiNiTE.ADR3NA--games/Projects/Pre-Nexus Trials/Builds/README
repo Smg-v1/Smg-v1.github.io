@@ -1,0 +1,111 @@
+Loading...
+
+
+
+
+
+
+# 🧪 PRE-NEXUS TRIALS (Test Build)
+**Built in Unity**(WindowsPC)
+
+Welcome to the **Pre-Nexus Trials**, an early, playable prototype designed as a testing ground for the future of the **ALONE** series.
+
+This isn't just a rough demo — it's a functioning multiplayer FPS environment where players can **run, aim, shoot, pick up gear, and respawn** in real time. The awesome part is, the gameplay keeps growing so you'd do so much more if
+you stick around.
+
+---
+
+## 🌟 What's This About?
+
+This test build is all about:
+- Developing and refining gameplay mechanics
+- Stress-testing networking systems (multiplayer in progress)
+- Getting feedback from players
+- Having **real fun** while doing it
+
+It’s a **sandbox for experimentation** and a **foundation for something bigger**.
+
+> 🤝 Your feedback now helps shape what this game will grow into later.
+
+---
+
+## 🎮 CONTROLS (DEFAULT)
+
+| Action        | Key              |
+|---------------|------------------|
+| Move Forward  | `W`              |
+| Move Backward | `S`              |
+| Move Left     | `A`              |
+| Move Right    | `D`              |
+| Jump          | `Space`          |
+| Sprint        | `Hold Left Shift`|
+| Aim           | `Right Click`    |
+| Shoot         | `Left Click`     |
+| Inventory     | `Tab`            |
+
+---
+
+## 🧭 INVENTORY SYSTEM
+
+Click the inventory icon in the UI to:
+- **Reload**
+- **Use items**
+- **Pick up items**
+- **Manage your gear**
+
+A Clean UI — it works. Once you're in, you’ll see how it’s evolving.
+
+---
+
+## 🎉 YES — It’s Playable
+
+You can:
+- **Jump in**
+- **Shoot around**
+- **Test movement & animation sync**
+- **Pickup items
+- **Respawn and keep playing**
+
+And if you're playing with someone else on the network, things sync — **animations, damage, and state changes**.
+
+It's not fully polished, but you could still have **fun** while it grows. Responsive, and built with intention.
+
+---
+
+## 📡 MULTIPLAYER & SERVER
+
+Multiplayer is already active — and more server features are coming. This means:
+- Competitive or co-op sessions
+- Player feedback in live scenarios
+- The game grows *with you* as you test it
+
+---
+
+## ✉️ FEEDBACK WELCOME
+
+Got bugs? Ideas? Suggestions?
+- Open an [Issue](https://github.com/Smg-v1/Smg-v1.github.io/issues)
+- Or hit me up via [GitHub](https://github.com/Smg-v1)
+
+---
+
+## 🚧 Visuals?
+
+- Stylized 2D characters (LIKE RETRO DOOM IN THE FUTURE)
+- Clean UI (RESIDENT EVIL INSPIRED)
+- Animated transitions
+- In-progress death/resurrection VFX
+
+The goal: **mechanics first, visuals next** — but yeah, **it's already a vibe.**
+
+---
+
+## 📌 Final Words
+
+> Pre-Nexus Trials is the **testing phase before the storm**.
+
+It lays the foundation for a larger vision — but even now, it’s something you can explore, have fun with, and shape through your input.
+
+Thanks for playing 🖤  
+— K. Mofokeng / SMG.VERSION1
+
